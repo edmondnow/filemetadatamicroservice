@@ -1,4 +1,8 @@
 {
   "name": "File Metadata Microservice",
-  "version": "1"
+  "version": "1",
+  "dependencies": {
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  }
 }
